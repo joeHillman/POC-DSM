@@ -8,5 +8,6 @@ export const Button = ({ classes, label, type }) => {
 }
 
 Button.propTypes = {
+  classes: string,
   label: string,
 }

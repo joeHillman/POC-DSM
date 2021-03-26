@@ -1,4 +1,6 @@
-# Gettinng Started
+# This is strictly a proof of concept, there is no package file as you've probably seen so things here certainly won't work as is.
+
+## Getting Started
 
 1 Purpose & Principles
 These should be embedded in hearts and minds of your designers and developers.
